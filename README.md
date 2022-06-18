@@ -1,6 +1,3 @@
-# Who Am I?
-A person
-
 ## Languages
 - C
 - JS
